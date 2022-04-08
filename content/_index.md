@@ -8,7 +8,9 @@ Hola ✌️  soy el explorer Ricardo García G. y este es mi blog personal donde
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis Expectativas para este proyecto son:
-- Aprender a Usar las herremientas de desarrollo como son:
+
+- Aprender a Usar las herremientas de desarrollo como son:  
+
   - Git y GitHub
   - Aprender más alla de lo básico de Visual Studio Code
 - Aprender la tecnología de Backend de NodeJs
