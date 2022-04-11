@@ -6,7 +6,16 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Ricardo García</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://github.com/Ricardo-g-garcia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/Ricardo-g-garcia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi trayectoria a través de Launch X</title>
+      <link>https://github.com/Ricardo-g-garcia/posts/post_1/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/Ricardo-g-garcia/posts/post_1/</guid>
+      <description>El programa de Launch X consta de 3 fases o misiones: On boarding, Front end y Back end. El programa de on boarding fue una introducción a la programación usando el lenguaje Python, y la instalación y familiarización con las herramientas como son un editor de texto(Visual Studio Code) asi como una introdución al sistema de control de versiones git y de la plataforma para guardar y compartir nuestros repositorios GitHub.</description>
+    </item>
+    
     <item>
       <title>La cultura de un desarrolador de software</title>
       <link>https://github.com/Ricardo-g-garcia/posts/intro/</link>
