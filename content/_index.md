@@ -9,12 +9,12 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis Expectativas para este proyecto son:
 
-- Aprender más a profundidad las herremientas de desarrollo como son:  Git y GitHub, Vsual Studio Code
-- Aprender la tecnología de Backend de NodeJs
-- Aprender de Bases de Datos
-- Realizar Varios Proyectos que contribuyan a enriquecer mi portafolio
-- Aprender otras habilidaes de comunicacón por medio de este blog
-- Aprender a hacer deploy del desarrollo Backend
-- y seguir aprendiendo
+* Aprender más a profundidad las herremientas de desarrollo como son:  Git y GitHub, Vsual Studio Code
+* Aprender la tecnología de Backend de NodeJs
+* Aprender de Bases de Datos
+* Realizar Varios Proyectos que contribuyan a enriquecer mi portafolio
+* Aprender otras habilidaes de comunicacón por medio de este blog
+* Aprender a hacer deploy del desarrollo Backend
+* y seguir aprendiendo
 
 🚀
